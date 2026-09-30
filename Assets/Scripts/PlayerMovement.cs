@@ -26,4 +26,11 @@ public class PlayerMovement : MonoBehaviour
         transform.position = new Vector3(transform.position.x, Mathf.Clamp(transform.position.y, -4f, 4f), transform.position.z);
 
     }
+
+    private void OnTriggerEnter2d(Collider2D collision)
+    {
+
+
+
+    }
 }
