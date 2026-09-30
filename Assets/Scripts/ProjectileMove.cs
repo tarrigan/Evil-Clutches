@@ -7,6 +7,8 @@ public class ProjectileMove : MonoBehaviour
 
     public float speed = 6;
 
+    public float increaseSpeed = 2;
+
     public int points = 100;
 
     // Update is called once per frame
