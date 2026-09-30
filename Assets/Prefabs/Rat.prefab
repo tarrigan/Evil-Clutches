@@ -108,8 +108,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d437fb86e456b540ab1255f29270816, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ProjectileMove
-  speed: 6
-  points: 100
+  speed: 5
+  points: 200
 --- !u!95 &9151655452300756125
 Animator:
   serializedVersion: 7
